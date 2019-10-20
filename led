@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Battery</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/images/fav.ico" />
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <h1>LED</h1>
+    <h2>What is an LED?</h2>
+    <p>
+        An LED, short for light-emmiting diode, is a device that takes electricity and converts it to light. They can have many different colors, require 
+        different <a href="/electricity.html">voltages</a>, and have varying brightness depending on what type of LED they are. There are simple LEDs smaller than your pinkie, yet can 
+        light up an entire room. There are huge LED flashlights that emit dim lights.
+    </p>
+    <p>
+        There are way too many different types of LED's to list here, and many of them are produced by different manufacturers. But generally, LEDs have 
+        a <a href = "/electricity.html">voltage</a> of 1.7 or more, and the actual LED part(so excluding the shell) is quite small, and usually not bigger
+        than 1cm in any direction. LEDs are generally considered the brightest electrical component compared to the amount of electricity they use. 
+    </p>
+    <h2>What is it made of and what is it used for?</h2>
+    <h2>What does it do and how does it work?</h2>
+</body>
+</html>
